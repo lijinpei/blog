@@ -1,16 +1,23 @@
-<!DOCTYPE html>
+<!doctype html public "-//W3C//DTD HTML 4.0 Transitional //EN">
 <html>
 <head>
-<title>LLVM Study Notes</title>
+  <meta name="GENERATOR" content="mkd2html 2.2.3">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title></title>
 </head>
 <body>
-
 <h1>LLVM Study Notes</h1>
-<p>Here are some study notes I made during my still on-going learning of LLVM/compilation techniques. I wrote them here to serve as a memo for myself, and maybe provide an ovrerview for new-comers to llvm. </p>
-<p> <a href="ADT.html"> LLVM ADT. </a> ADT means abstract datastructure type, they are like cpp standard library's STL but provides additionaly functionality suitable for llvm/clang's needs. ADT is a base layer for other functionality of llvm/clang, they are less concerned with algorithms used in a compiler, but exhibit good C++ engineering practice. </p>
-<p> <a href="passes.html"> LLVM Analysis and Transformation passes. </a>Analyses and transformations are where llvm's most optimization happens(well, at least most target-independent optimization happens).</p>
-<p> <a href="mc.html"> LLVM Machine Code Generation. </a> Machine code generation is the process by with LLVM IR get tranformed into object code that can be 'executed' by a CPU.</p>
-<p> <a href="jit.html"> LLVM JIT. </a></p>
-<p> <a href="polly.html"> Polly. </a> <a href="http://polly.llvm.org"> LLVM's polly subproject</a> is an implementation of the <a href="http://polyhedral.info/"> polyhedral compilation </a> technique, which at optimize <a href="https://polly.llvm.org/doxygen/classpolly_1_1Scop.html"> 'scop'</a> (static control part) loops for data locality (i.e. cache friendly) and vectorization (possibily?).</p>
+
+<p>Here are some study notes I made during my still on-going learning of LLVM/compilation techniques. I wrote them here to clear my mind/serve as a memo for myself, and maybe provide an ovrerview for new-comers to llvm.</p>
+
+<p><a href="ADT.html">LLVM ADT</a>. ADT means abstract datastructure type, they are like cpp standard library&rsquo;s STL but provides additionaly functionality suitable for llvm/clang&rsquo;s needs. ADT is a base layer for other functionality of llvm/clang, they are less concerned with algorithms used in a compiler, but exhibit good C++ engineering practice.</p>
+
+<p><a href="passes.html">LLVM Analysis and Transformation passes</a>. Analyses and transformations are where llvm&rsquo;s most optimization happens(well, at least most target-independent optimization happens).</p>
+
+<p><a href="mc.html">LLVM Machine Code Generation</a>. Machine code generation is the process by with LLVM IR get tranformed into object code that can be &lsquo;executed&rsquo; by a CPU.</p>
+
+<p><a href="jit.html">LLVM JIT</a>.</p>
+
+<p><a href="polly.html">Polly</a>. <a href="http://polly.llvm.org">LLVM&rsquo;s polly subproject</a> is an implementation of the <a href="http://polyhedral.info/"> polyhedral compilation </a> technique, which at optimize <a href="https://polly.llvm.org/doxygen/classpolly_1_1Scop.html"> &lsquo;scop&rsquo;</a> (static control part) loops for data locality (i.e. cache friendly) and vectorization (possibily?).</p></p>
 </body>
 </html>
