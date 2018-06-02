@@ -6,9 +6,13 @@
 
 [Processor Architecture](procesor.html)
 
-[Papaers](papers.html)
+[Papers](papers.html)
 
-Useful links:
+[Useful Links]
 
-* libcds https://github.com/khizmax/libcds
-* intel tbb https://github.com/01org/tbb https://www.threadingbuildingblocks.org/
+Libraries
+
+* [libcds] (https://github.com/khizmax/libcds)
+* intel tbb [website](https://github.com/01org/tbb) [code](https://www.threadingbuildingblocks.org/)
+
+Linux-kernel memory model
