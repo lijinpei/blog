@@ -9,3 +9,5 @@ Welcome to Li Jinpei's personal website. I will record and share some learning e
 [C++ Resources](cpp/index.html)
 
 [Linux Kernel Study](linux/index.html) My learning notes on linux kernel.
+
+[Tools](tools/index.html) CMake/gdb/etc.
