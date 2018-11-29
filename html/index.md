@@ -6,8 +6,10 @@ Welcome to Li Jinpei's personal website. I will record and share some learning e
 
 [Multi Processor Programming](mp/index.html) Shared-memory multi-processor programming. I don't care what you call it, concurrent/parallel/multi-thread/processor, it's just multi-processor programming modeled by shared-memory, distinguished from the message-passing model. Also I don't care much about things like "in fact, shared-memory is implemented by message-passing", that's a seperate problem.
 
-[C++ Resources](cpp/index.html)
+[C++ Study](cpp/index.html)
 
 [Linux Kernel Study](linux/index.html) My learning notes on linux kernel.
+
+[Lisp Study](lisp/index.html) My learning notes on common-lisp/scheme/racket/ocaml/coq.
 
 [Tools](tools/index.html) CMake/gdb/etc.
