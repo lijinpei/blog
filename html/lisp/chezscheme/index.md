@@ -53,6 +53,23 @@ macro expander:
 
 syntax.ss
 
+作用未知但应该很重要:
+
+cmacros.ss
+4.ss
+5_1.ss
+5_2.ss
+5_3.ss
+5_4.ss
+5_5.ss
+5_6.ss
+5_7.ss
+6.ss
+7.ss
+mkheader.ss似乎与生成boot/m/equates.h和boot/m/scheme.h相关
+
+猜测其他文件主要是库相关的文件
+
 ### c目录
 
 ### configure/makefiles
