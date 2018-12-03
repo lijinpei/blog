@@ -2,9 +2,11 @@
 
 ## Common-lisp
 
-## Chez-Scheme
+## ChezScheme
+[ChezScheme Study](chezscheme/index.html)
 
 ## Racket
+[Racket Study](racket/index.html)
 
 ## Chicken-Scheme
 
