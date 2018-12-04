@@ -42,42 +42,7 @@ dependent-name/nondependent-name
 ### lambda表达式与闭包类型/Lambda Expression and Closure Type
 
 ## 库专家/Libraries Expert
-
-### Boost
-
-#### Core
-
-demangle
-address_of
-
-#### 模板元编程/Template Meta-Programming
-
-##### MPL/Fusion/Hana
-##### 其他元编程库
-
-### Folly
-
-### Abseil
-
-### LLVM::ADT和LLVM::Support
-
-### google::benchmark
-
-### 测试框架/Testing Framework
-
-#### google::test
-#### boost::test
-#### ctest
-
-### 按功能分类/Classified by Functionality
-
-#### SmallVector
-
-* llvm::SmallVector
-* folly::small_vector
-* abseil::inlined_vector
-* Howard Hinnant stack allocator
-
+[C++库学习笔记](libraries.html)
 ## 奇技淫巧/Disgusting Tricks
 
 __is_constant(thanks to some of my group-mates for mention this to me)
