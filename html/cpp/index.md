@@ -4,6 +4,8 @@
 
 ## 语言律师/Language Lawyer
 
+[我的C++标准的读书笔记](standard.html)
+
 ### 对象
 
 #### 初始化
