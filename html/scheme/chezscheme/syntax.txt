@@ -26,3 +26,10 @@ chez scheme features:
 module
 local import
 meta definiton
+
+output constructor:
+build-
+构建Lsrc的Expr项
+
+chi-x expand 结构x
+parse-x 帮助parse x
