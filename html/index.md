@@ -10,6 +10,6 @@ Welcome to Li Jinpei's personal website. I will record and share some learning e
 
 [Linux Kernel Study](linux/index.html) My learning notes on linux kernel.
 
-[Lisp Study](lisp/index.html) My learning notes on common-lisp/scheme/racket/ocaml/coq.
+[Scheme Study](scheme/index.html) My learning notes on the Scheme programming language.
 
 [Tools](tools/index.html) CMake/gdb/etc.
