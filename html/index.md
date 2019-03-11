@@ -2,7 +2,7 @@
 
 Welcome to Li Jinpei's personal website. I will record and share some learning experience about compilation techniques/algorithms/programming here. Wish you will enjoy it.
 
-[Blog](https://blog.lijinpei.me) See some eye candies.
+[Blog](https://blog.lijinpei.me) See a more beautiful looking site.
 
 [LLVM Study](llvm/index.html) My learning notes on LLVM.
 
